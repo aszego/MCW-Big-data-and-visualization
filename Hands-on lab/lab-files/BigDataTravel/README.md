@@ -2,7 +2,7 @@
 
 ## Part of the Microsoft Cloud Workshops
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FMCW-Big-data-and-visualization%2Fmaster%2FHands-on%2520lab%2Flab-files%2FBigDataTravel%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faszego%2FMCW-Big-data-and-visualization%2Fmaster%2FHands-on%2520lab%2Flab-files%2FBigDataTravel%2Fazuredeploy.json)
 
 This GitHub repo exists to deploy the web application that is part of the _Big Data & Visualization Hands-on Lab_. We are leveraging a capability of Azure called ARM templates which allow you to specify what your solution looks like from a deployment perspective simply by using JSON code. This is a fairly simple use of ARM templates, but you can actually deploy very complex topologies using this technology - straight from source control. Pretty cool!!
 
