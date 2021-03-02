@@ -795,7 +795,7 @@ To retrieve the 5-day hourly weather forecast, you will use an API from OpenWeat
 
 ### Task 2: Deploy web app from GitHub
 
-1. Navigate to <https://github.com/Microsoft/MCW-Big-data-and-visualization/blob/master/Hands-on%20lab/lab-files/BigDataTravel/README.md> in your browser of choice, but where you are already authenticated to the Azure portal.
+1. Navigate to <https://github.com/aszego/MCW-Big-data-and-visualization/blob/master/Hands-on%20lab/lab-files/BigDataTravel/README.md> in your browser of choice, but where you are already authenticated to the Azure portal.
 
 2. Read through the README information on the GitHub page.
 
